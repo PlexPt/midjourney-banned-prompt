@@ -220,9 +220,9 @@ midjourney banned prompt. MJ 全部违禁词 敏感词库
 | 200  |  revealing clothing  |
 | 201  |         vein         |
 | 202  |         loli         |
-| 203  |        #NAME?        |
+| 203  |        -edge         |
 | 204  |        boobs         |
-| 206  |        #NAME?        |
+| 206  |       -backed        |
 | 207  |       tied up        |
 | 208  |        zedong        |
 | 209  |       bathing        |

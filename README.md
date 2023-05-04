@@ -238,3 +238,8 @@ midjourney banned prompt. MJ 全部违禁词 敏感词库
 | 219  |         sexi         |
 | 220  |       sexualiz       |
 | 221  |        sexual        |
+| 222  |        xi            |
+| 223  |        breast        |
+| 224  |        big but       |
+| 225  |        manure        |
+| 226  |        mong          |

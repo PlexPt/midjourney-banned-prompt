@@ -242,5 +242,4 @@ midjourney banned prompt. MJ 全部违禁词 敏感词库
 | 223  |        breast        |
 | 224  |        big but       |
 | 225  |        manure        |
-| 226  |        manure        |
-| 227  |        mong          |
+| 226  |        mong          |
